@@ -5,4 +5,4 @@ Tools/frameworks used
   * Chrome Webdriver
   * Rebex imap
 Requirement:
-  * Need Chrome driver o test machine - path should be added in enviroment variable
+  * Need Chrome driver on test machine - path should be added in enviroment variable
